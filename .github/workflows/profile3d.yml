@@ -1,0 +1,21 @@
+name: Profile 3D
+
+on:
+
+  schedule:
+    - cron: "0 */24 * * *"
+
+  workflow_dispatch:
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: SaitamaTech
