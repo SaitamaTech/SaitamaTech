@@ -390,8 +390,6 @@ while (alive) {
 
 </div>
 
-> ⚠️ **Note:** The snake won't appear until we set up a GitHub Action later (I'll show you how in Part 4).
-
 ---
 
 # 🚀 FEATURED PROJECTS
