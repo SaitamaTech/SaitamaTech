@@ -697,30 +697,6 @@ See you on GitHub 🚀
 
 ---
 
-# 🌍 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://saitama-portfolio.vercel.app">
-
-<img src="https://img.shields.io/badge/🌐%20Portfolio-saitama--portfolio.vercel.app-00F5FF?style=for-the-badge"/>
-
-</a>
-
-<a href="https://wa.me/23480889034026">
-
-<img src="https://img.shields.io/badge/💬%20WhatsApp-Let's%20Talk-25D366?style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/SaitamaTech">
-
-<img src="https://img.shields.io/badge/⭐%20GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</div>
-
 ---
 
 # 💻 DEVELOPER LIFE
