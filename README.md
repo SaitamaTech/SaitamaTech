@@ -133,11 +133,11 @@ A modern anime platform featuring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Itzreal001&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaitamaTech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Itzreal001&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SaitamaTech&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itzreal001&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaitamaTech&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -147,7 +147,7 @@ A modern anime platform featuring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Itzreal001&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SaitamaTech&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -157,7 +157,7 @@ A modern anime platform featuring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzreal001&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaitamaTech&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -167,7 +167,7 @@ A modern anime platform featuring:
 
 <p align="center">
 
-<a href="https://github.com/Itzreal001" target="_blank">
+<a href="https://github.com/SaitamaTech" target="_blank">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
