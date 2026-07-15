@@ -665,38 +665,6 @@ See you on GitHub 🚀
 <img src="https://raw.githubusercontent.com/SaitamaTech/SaitamaTech/output/github-contribution-grid-snake.svg"/>
 
 </div>
-
----
-
-# 🌌 3D CONTRIBUTION CALENDAR
-
-<div align="center">
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaitamaTech&theme=tokyonight"/>
-
-</div>
-</div>
-
----
-
-# ⚡ PROFILE SUMMARY
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaitamaTech&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaitamaTech&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaitamaTech&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaitamaTech&theme=tokyonight&utcOffset=1"/>
-
-</div>
-
----
-
 ---
 
 # 💻 DEVELOPER LIFE
